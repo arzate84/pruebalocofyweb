@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pruebalocofyweb/static/css/main.082286c5.css",
+    "main.js": "/pruebalocofyweb/static/js/main.34c428cd.js",
+    "static/js/787.6a06d8cf.chunk.js": "/pruebalocofyweb/static/js/787.6a06d8cf.chunk.js",
+    "index.html": "/pruebalocofyweb/index.html",
+    "main.082286c5.css.map": "/pruebalocofyweb/static/css/main.082286c5.css.map",
+    "main.34c428cd.js.map": "/pruebalocofyweb/static/js/main.34c428cd.js.map",
+    "787.6a06d8cf.chunk.js.map": "/pruebalocofyweb/static/js/787.6a06d8cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.082286c5.css",
+    "static/js/main.34c428cd.js"
+  ]
+}
